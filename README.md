@@ -1,6 +1,6 @@
 # Smart Contract Developer Roadmap: My Learning Journey
 
-![Ethereum Banner](https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/heroes/enterprise-hero.png)
+![Ethereum Banner]([https://raw.githubusercontent.com/ethereum/ethereum-org-website/dev/public/images/heroes/enterprise-hero.png](https://ethereum.org/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhero.94a1ecc4.png&w=1504&q=75))
 
 ## 🎯 Mission
 
@@ -65,8 +65,4 @@ All work is organized into folders corresponding to the modules in the roadmap.
 
 ---
 
-## ✍️ About Me
 
-(Opsional tapi sangat direkomendasikan)
-* **LinkedIn:** [Link ke profil LinkedIn Anda]
-* **Twitter/X:** [Link ke profil Twitter/X Anda]
